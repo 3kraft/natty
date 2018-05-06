@@ -1,3 +1,5 @@
+Forked to allow multiple locales to be parsed. This is WIP
+
 Natty is a natural language date parser written in Java.  Given a date
 expression, natty will apply standard language recognition and translation
 techniques to produce a list of corresponding dates with optional parse and
